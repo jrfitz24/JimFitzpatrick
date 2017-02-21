@@ -1,0 +1,8 @@
+c:\users\jim.fitzpatrick\documents\visual studio 2015\Projects\CreditCardInterest\CreditCardInterest\bin\Debug\CreditCardInterest.dll
+c:\users\jim.fitzpatrick\documents\visual studio 2015\Projects\CreditCardInterest\CreditCardInterest\bin\Debug\CreditCardInterest.pdb
+c:\users\jim.fitzpatrick\documents\visual studio 2015\Projects\CreditCardInterest\CreditCardInterest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\jim.fitzpatrick\documents\visual studio 2015\Projects\CreditCardInterest\CreditCardInterest\bin\Debug\nunit.framework.dll
+c:\users\jim.fitzpatrick\documents\visual studio 2015\Projects\CreditCardInterest\CreditCardInterest\bin\Debug\nunit.framework.xml
+c:\users\jim.fitzpatrick\documents\visual studio 2015\Projects\CreditCardInterest\CreditCardInterest\obj\Debug\CreditCardInterest.csprojResolveAssemblyReference.cache
+c:\users\jim.fitzpatrick\documents\visual studio 2015\Projects\CreditCardInterest\CreditCardInterest\obj\Debug\CreditCardInterest.dll
+c:\users\jim.fitzpatrick\documents\visual studio 2015\Projects\CreditCardInterest\CreditCardInterest\obj\Debug\CreditCardInterest.pdb
